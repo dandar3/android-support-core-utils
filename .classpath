@@ -7,5 +7,9 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-annotations"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-compat"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-documentfile"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-loader"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-localbroadcastmanager"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-print"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
